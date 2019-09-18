@@ -289,6 +289,7 @@ h1, h2, h3, h4, h5,
     padding: 4em 0; }
 
 .site-footer {
+
   padding: 4em 0;
   background: #333333; }
   @media (min-width: 768px) {
@@ -1109,18 +1110,23 @@ h1, h2, h3, h4, h5,
     color: #fff;
     border-bottom: 1px solid rgba(255, 255, 255, 0.5); }
 
+    .text-number{
+     color: #51eaea;
+      font-size: 1.2rem;
+    }
     
+    .responsive {
+      width: 100%;
+      height: auto;
+    }
+
+    .smile{
+      font-size: 3rem;
+      color: #51eaea;
+      
     
-    /* footer not footer */
+    }
     
-    
-    
-    
-    /* contact-info{
-      display:inline;
-      /* margin: 1%;
-      padding: 2%; */
-    } */
     
     
    
